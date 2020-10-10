@@ -1,0 +1,15 @@
+body {
+  font-size: 16px;
+  font-family: "Oxygen", sans-serif;
+}
+
+#header_nav {
+  background-color: #61122f;
+  border: 0;
+  border-radius: 0;
+}
+
+div.navbar-brand {
+  color: #fff;
+  font-size: 2em;
+}
